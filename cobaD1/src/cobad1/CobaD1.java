@@ -18,6 +18,7 @@ public class CobaD1 {
         // TODO code application logic here
         System.out.println("Semangat yhaaaaa");
         System.out.println("KUY");
+        System.out.println("Siiiaaap...!!");
     }
     
 }
